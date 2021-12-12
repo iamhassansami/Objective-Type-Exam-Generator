@@ -1,0 +1,78 @@
+1. No bird can fly backwards.
+ False
+2. Freddy Kreuger is the villain in the “Friday the 13th” movies.
+ False
+3. The capital of Libya is Benghazi.
+ False
+4. Albert Einstein was awarded the Nobel Prize in Physics.
+ True
+5. Baby koalas are called joeys.
+ True
+6. Gone with the Wind takes place in Savannah, Georgia.
+ False
+7. Brazil is the only country in the Americas whose official language is Portuguese.
+ True
+8. The first name of Kramer in Seinfeld is Cosmo.
+ True
+9. The American Civil War ended in 1776.
+ False 
+10. A right triangle can never be equilateral.
+ True 
+11. The Ford Edsel was named after Henry Ford’s father.
+ False 
+12. The Dickens novel Oliver Twist begins with the well-known phrase: “It was the best of times, it was the worst of times.”
+ False 
+13. “Paprika” is the Hungarian word for “pepper.”
+ True
+14. The Bill of Rights contains 10 amendments to the Constitution.
+ True
+15. Snow White’s seven dwarfs all worked as lumberjacks.
+ False
+16. The name Sylvia Plath was a pseudonym.
+ False
+17. There are seven red stripes in the United States flag.
+ True
+18. The favorite food of the Teenage Mutant Ninja Turtles is pizza.
+ True  
+19. Thomas Jefferson was the second president of the United States.
+ False
+20. No bird can fly backwards.
+ False
+21. Freddy Kreuger is the villain in the “Friday the 13th” movies.
+ False
+22. Thomas Jefferson was the second president of the United States.
+ False
+23. The capital of Libya is Benghazi.
+ False
+24. Albert Einstein was awarded the Nobel Prize in Physics.
+ True
+25. Baby koalas are called joeys.
+ True
+26. Gone with the Wind takes place in Savannah, Georgia.
+ False
+27. Brazil is the only country in the Americas whose official language is Portuguese.
+ True
+28. The first name of Kramer in Seinfeld is Cosmo.
+ True
+29. The American Civil War ended in 1776.
+ False 
+30. A right triangle can never be equilateral.
+ True 
+31. The Ford Edsel was named after Henry Ford’s father.
+ False 
+32. The Dickens novel Oliver Twist begins with the well-known phrase: “It was the best of times, it was the worst of times.”
+ False 
+33. “Paprika” is the Hungarian word for “pepper.”
+ True
+34. The Bill of Rights contains 10 amendments to the Constitution.
+ True
+35. Snow White’s seven dwarfs all worked as lumberjacks.
+ False
+36. The name Sylvia Plath was a pseudonym.
+ False
+37. There are seven red stripes in the United States flag.
+ True
+38. The favorite food of the Teenage Mutant Ninja Turtles is pizza.
+ True  
+
+ 
